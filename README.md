@@ -79,12 +79,5 @@ cv2.destroyAllWindows()
 ### Histogram Equalization of Grayscale Image:
 ![image](https://github.com/muppirgautham/Histogram-of-an-images/assets/94810884/2bcd5309-6c1c-4953-99a2-d33e602b566c)
 
-### Result:
-Thus the histogram for finding the frequency of pixels in an image with pixel values ranging from 0 to 255 is obtained. Also,histogram equalization is done for the gray scale image using OpenCV.
-
-
-
-
-
 ## Result: 
 Thus the histogram for finding the frequency of pixels in an image with pixel values ranging from 0 to 255 is obtained. Also,histogram equalization is done for the gray scale image using OpenCV.
